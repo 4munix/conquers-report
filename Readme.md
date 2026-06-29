@@ -1,4 +1,4 @@
-<img src="https://cdn.amendes.me/conquers/logo.svg" width=144>
+<img src="https://raw.githubusercontent.com/4munix/ghcdn/refs/heads/main/conquers/logo.png" width=144>
 
 conquers-report
 ===============
